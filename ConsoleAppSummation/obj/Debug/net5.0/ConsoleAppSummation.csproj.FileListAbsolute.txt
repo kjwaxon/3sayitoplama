@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.exe
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.deps.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ref\ConsoleAppSummation.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\bin\Debug\net5.0\ConsoleAppSummation.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ref\ConsoleAppSummation.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppSummation\obj\Debug\net5.0\ConsoleAppSummation.genruntimeconfig.cache
